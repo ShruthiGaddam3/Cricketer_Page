@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg-image{
+    background-color:#e6f6ff;
+    height: 100vh;
+    background-size: cover;
+}
+.card-container{
+    background-color: rgb(150, 110, 123);
+    padding: 15px;
+}
+.card-container-image{
+    height: 150px;
+    width:150px;
+}
+.main-heading{
+    color:black;
+    text-align: start;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+.paragraph{
+    font-family: "Roboto";
+    color: black;
+    font-size: 15px;
+}
+.ipl-main-heading{
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    padding: 15px;
+}
+.ipl-card-container{
+    background-color:rgb(178, 206, 219);
+    margin: 12px;
+    border-radius: 15px;
+    height: 25vh;
+}
+.ipl-card-image{
+    height: 140px;
+    width: 140px; 
+    border-top-left-radius: 15px; 
+    border-bottom-left-radius: 15px; 
+}
+.ipl-card-main-heading{
+    font-family: "Roboto";
+    font-size: 20px;
+    color: rgb(44, 13, 13);
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+
+}
+.ipl-card-paragraph{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.videos-main-heading{
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    padding: 15px;
+}
+.video-container {
+    margin: 10px;
+}
+.videos-card-image1{
+    height: 28vh;
+    width: 22vh;
+    padding:10px;
+}
+.videos-card-image2{
+    height: 35vh;
+    width: 26vh;
+    padding:10px;
+}
+.videos-card-image3{
+    height: 28vh;
+    width: 25vh;
+    padding:10px;
+}
+.video-title {
+    font-family: "roboto";
+    color: black;
+    font-size: 16px;
+}
+.video-image{
+    border-radius: 10px;
+}
+.button{
+    height: 35px;
+    width: 120px;
+    margin: 15px;
+    border-width:0px;
+    background-color: aqua;
+    border-radius: 10px;
+}
